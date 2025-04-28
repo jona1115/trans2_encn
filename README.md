@@ -12,4 +12,4 @@ This repo contains a notebook (`.ipynb`) that is a translation transformer model
     - On network: `jupyter notebook --ip=0.0.0.0`
 5. Open the notebook by following the instructions from the output of step 4.
 6. To kill the server, `ctrl+c` twice.
-7. To turn off the conda environment, run: `conda deactivate`
+7. To turn off the conda environment, run: `conda deactivate` [checkout [here](https://github.com/jona1115/documentations/blob/main/conda/condatips.md) for more conda tips]
